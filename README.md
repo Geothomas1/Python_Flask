@@ -6,3 +6,4 @@
 export FLASK_DEBUG=1
 to Run python3 filename.py
 pip3 install flask-wtf 
+pip3 install flask-sqlalchemy#//we use sqlalchemy database
